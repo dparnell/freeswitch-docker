@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.9
 MAINTAINER Daniel Parnell <me@danielparnell.com>
 
 RUN apk --update --no-progress upgrade \
